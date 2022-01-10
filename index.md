@@ -1,7 +1,7 @@
 # Chrissy Holshue's Portfolio
 
 
-## 3D Printing
+## CAD & 3D Printing
 
 ## Cell Culture & Biomedical Lab
 
