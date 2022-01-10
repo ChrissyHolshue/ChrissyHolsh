@@ -1,8 +1,8 @@
 # Chrissy Holshue's Portfolio
-# EMAIL: <a href="mailto:ChrissyHolshue@outlook.com">Email me<a/>
+# EMAIL: <a href="mailto:ChrissyHolshue@outlook.com">ChrissyHolshue@outlook.com<a/>
 
   ## <a href="3Dprinting.html" title="CAD & 3D Printing Projects"> CAD & 3D Printing</a>
 
-## Cell Culture & Biomedical Lab
+## <a href="BioLab.html" title="Cell Culture & Biomedical Lab Experience"> Cell Culture and Biomedical Lab</a>
 
-## PCB & Electronics
+## <a href="Electronics.html" title="PCB & Electronics Experience"> PCB & Electronics</a>
