@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="bootstrap.css" media="screen"/>
 
 # Chrissy Holshue's Portfolio
 # UNDER CONSTRUCTION
