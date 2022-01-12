@@ -1,4 +1,4 @@
-theme: virtual-folio
+theme: jekyll-theme-minimal
 github:
   is_project_page: false
 name: " "
