@@ -1,7 +1,7 @@
+# UNDER CONSTRUCTION
 <link rel="stylesheet" type="text/css" href="bootstrap.css" media="screen"/>
 
 # Chrissy Holshue's Portfolio
-# UNDER CONSTRUCTION
 
 # EMAIL: <a href="mailto:ChrissyHolshue@outlook.com">ChrissyHolshue@outlook.com<a/>
 
